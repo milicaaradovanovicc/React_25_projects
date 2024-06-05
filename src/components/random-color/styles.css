@@ -1,0 +1,12 @@
+button {
+  padding: 5px;
+  margin: 5px;
+  font-weight: bold;
+  color: gray;
+}
+.generateColorBtn {
+  width: 410px;
+}
+.colorBtn {
+  width: 200px;
+}
