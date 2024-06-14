@@ -59,7 +59,7 @@ export default function TicTacToe() {
     } else if (getWinner(squares)) {
       setStatus(
         `Winner is ${getWinner(squares)}! 
-        PLease restart the game`
+        Please restart the game`
       );
     } else {
       setStatus(`Next player is ${isXTurn ? "X" : "O"}`);
